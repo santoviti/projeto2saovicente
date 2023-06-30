@@ -1,1 +1,17 @@
+ *{
+   padding:0px;
+   margin:0px;
+{
 
+  body{
+    blackgroud-color: #dcdcdc;
+  {
+
+  .principal 
+  {
+    width: 95%;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 2px 4px rgba(rgb(255,251,0),0.5);
+  }
